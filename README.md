@@ -13,8 +13,8 @@
 ```{.java}
 
 ```
-* solution : 
-
+* Solution : 
+* Review :
 -->
 
 
@@ -37,6 +37,7 @@ public class Main {
 ```
 
 * Solution : 기초 출력문
+* Review : 첫 단추를 꿰보자!
 
 
 - - -
@@ -63,6 +64,6 @@ public class Main {
 }
 ```
 * solution : println 사용하여 줄바꿈 
-
+* Review : Syntax error는 무섭다. 꼼꼼히 
 
 
