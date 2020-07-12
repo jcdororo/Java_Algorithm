@@ -93,6 +93,6 @@ public class Main {
 }
 ```
 * Solution : \를 출력하기 위한 문제
-* Review : Java는 \를 출력하기위해선 \\를 사용한다.
+* Review : Java는 \를 출력하기위해선 \를 두번 사용한다.
 
 
