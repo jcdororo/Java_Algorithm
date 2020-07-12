@@ -27,7 +27,7 @@
 * 예제 출력 : Hello World!
 * 알고리즘 분류 : 출력 <br>
 * 정답 : 
-- - -
+
 ```{.java}
 public class Main {
 	public static void main(String[] args) {
@@ -35,8 +35,8 @@ public class Main {
 	}
 }
 ```
-- - -
-* Solution : 기초
+
+* Solution : 기초 
 
 - - -
 ## 문제번호 2557번
