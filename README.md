@@ -67,6 +67,32 @@ public class Main {
 }
 ```
 * solution : println 사용하여 줄바꿈 
-* Review : Syntax error는 무섭다. 꼼꼼히 
+* Review : Syntax error는 무섭다. 꼼꼼히 살펴보자
+
+
+- - -
+## 문제번호 10171번
+* 날짜 : 2020/07/12
+* 문제 : 아래 예제와 같이 고양이를 출력하시오.
+* 입력 : 없음.
+* 출력 : 고양이를 출력한다.
+* 예제 입력 : 없음.
+* 예제 출력 : ![캡처_2020_07_12_15_00_04_598](https://user-images.githubusercontent.com/66819791/87240007-63dbd300-c450-11ea-9881-2189438b78c3.jpg)
+
+* 알고리즘 분류 : 출력
+* 정답 : 
+```{.java}
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("\\    /\\");
+		System.out.println(" )  ( ')");
+		System.out.println("(  /  )");
+		System.out.println(" \\(__)|");
+	}
+}
+```
+* Solution : \를 출력하기 위한 문제
+* Review : Java는 \를 출력하기위해선 \\를 사용한다.
 
 
