@@ -1,4 +1,4 @@
-# JAVA Algorithm
+# 백준 JAVA Algorithm
 
 =====================
 
@@ -19,7 +19,7 @@
 
 
 
----
+
 
 * solution : 
 
@@ -36,6 +36,7 @@
 * 알고리즘 분류 : 출력
 * 정답 : 
 ---
+
 ```{.java}
 public class Main {
 	public static void main(String[] args) {
@@ -43,5 +44,5 @@ public class Main {
 	}
 }
 
----
-* solution :
+
+
