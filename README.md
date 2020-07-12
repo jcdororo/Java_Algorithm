@@ -12,9 +12,6 @@
 * 정답 : 
 ```{.java}
 
-
-
-
 ```
 * solution : 
 
@@ -37,10 +34,9 @@ public class Main {
 		System.out.println("Hello World!");
 	}
 }
-
 ```
 - - -
-* Solution :
+* Solution : 기초
 
 
 
