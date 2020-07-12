@@ -62,7 +62,7 @@ public class Main {
 
 }
 ```
-* solution : println 사용하여 
+* solution : println 사용하여 줄바꿈 
 
 
 
