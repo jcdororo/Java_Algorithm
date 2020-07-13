@@ -123,3 +123,30 @@ public class Main {
 ```
 * Solution : Scanner의 사용 방법
 * Review : 10번째줄의 a + b 의 양옆엔 ""가 없어도 된다.
+
+## 문제번호 N번
+* 날짜 : 2020/07/13
+* 문제 : 두 정수 A와 B를 입력받은 다음, A-B를 출력하는 프로그램을 작성하시오.
+* 입력 : 첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)
+* 출력 : 첫째 줄에 A-B를 출력한다.
+* 예제 입력 : 3 2
+* 예제 출력 : 1
+* 알고리즘 분류 :사칙연산 수학
+* 정답 : 
+```{.java}
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int a, b;
+		a = sc.nextInt();
+		b = sc.nextInt();
+		System.out.println(a - b);
+	}
+
+}
+```
+* Solution : Scanner의 사용 방법
+* Review : 신택스 에러 조심!
