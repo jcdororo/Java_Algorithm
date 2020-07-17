@@ -53,8 +53,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : 기초 for문
+* Review : for문의 개념을 알게되었다.
 
 - - -
 ## 문제번호 10950번
@@ -98,8 +98,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : for문 반복
+* Review : for문 안과 밖에서 받는 자료형을 잘 구분하자.
 
 - - -
 ## 문제번호 8393번
@@ -129,8 +129,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : sum사용 for문
+* Review : sum의 사용법을 알게되었다.
 
 - - -
 ## 문제번호 15552번
@@ -187,8 +187,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : 좀 더 빠른 입출력 방식
+* Review : 처음 접해보는 문구라 이해하는데 많은 시간이 필요했다.
 
 - - -
 ## 문제번호 2741번
@@ -220,8 +220,8 @@ public class Main {
 	}	
 }
 ```
-* Solution : 
-* Review :
+* Solution : 간단한 for문 반복
+* Review : 어느것을 출력할지 잘 고민해보자.
 
 - - -
 ## 문제번호 2742번
@@ -254,8 +254,8 @@ public class Main {
 	}
 }	
 ```
-* Solution : 
-* Review :
+* Solution : for문 반복의 타형
+* Review : i--로도 반복할 수 있다. 한가지 방법에 얽매이지 말자.
 
 - - -
 ## 문제번호 11021번
@@ -298,8 +298,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : 출력방법
+* Review : 출력시에 오타가 없는지 잘 확인해봐야겠다.
 
 - - -
 ## 문제번호 11022번
@@ -342,8 +342,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : 위 11021번과 같음
+* Review : 위 11021번과 같음
 
 - - -
 ## 문제번호 2438번
@@ -378,8 +378,8 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : 간단한 *출력
+* Review : println만이 아닌 prin도 출력할 수 있다. 고정관념을 깨자
 
 - - -
 ## 문제번호 2493번
@@ -418,7 +418,7 @@ public class Main {
 	}
 }
 ```
-* Solution : 
+* Solution : 위 문제와 동일
 * Review :
 
 - - -
@@ -461,6 +461,6 @@ public class Main {
 	}
 }
 ```
-* Solution : 
-* Review :
+* Solution : 배열 사용
+* Review : 처음으로 배열을 사용해 보았다. 배열을 어렵게 생각하지말자.
 
